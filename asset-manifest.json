@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2905f40.css",
-    "main.js": "/static/js/main.cbc34b95.js",
+    "main.css": "/static/css/main.d4c3019c.css",
+    "main.js": "/static/js/main.cb6a7257.js",
     "static/media/m1.png": "/static/media/m1.542405b0e97fe18a01f9.png",
     "static/media/m3.png": "/static/media/m3.0c1ad110b108bba7a09c.png",
     "static/media/m2.png": "/static/media/m2.877100d0c8d2c6193708.png",
     "static/media/t2.png": "/static/media/t2.c022cb4b838bb930e4cc.png",
     "static/media/t1.png": "/static/media/t1.a10fd632b7acacf30eea.png",
     "static/media/t3.png": "/static/media/t3.6f8e313cb397c1a87f2d.png",
+    "static/media/light-bulb-svgrepo-com.svg": "/static/media/light-bulb-svgrepo-com.57583c0bfcab1aa6647ab00941486377.svg",
+    "static/media/beer-mug-svgrepo-com.svg": "/static/media/beer-mug-svgrepo-com.b4fcdd493475a7be660958adbebeab98.svg",
+    "static/media/earth-moon-svgrepo-com.svg": "/static/media/earth-moon-svgrepo-com.5126961b3edcb2c1fd56bfceab6d5eb1.svg",
+    "static/media/sun-sunrise-svgrepo-com.svg": "/static/media/sun-sunrise-svgrepo-com.ee6fae8e43e135b72081954c79a78990.svg",
     "static/media/logo.svg": "/static/media/logo.48cd9f7f1348ace4da778e9a15bb8017.svg",
     "static/media/phone_with_logo.svg": "/static/media/phone_with_logo.a8bc53ef711b0bd5a6be3550ea2a70c9.svg",
     "index.html": "/index.html",
+    "static/media/edit-svgrepo-com.svg": "/static/media/edit-svgrepo-com.d51a722eedb17247a07d9b811fc53f27.svg",
     "static/media/circle-left-solid.svg": "/static/media/circle-left-solid.d95ed59a6ee1978998e7efc570102a71.svg",
     "static/media/add_white.svg": "/static/media/add_white.b25745c53cdcfcd2f99318bc38d42d89.svg",
     "static/media/avatar-default-svgrepo-com.svg": "/static/media/avatar-default-svgrepo-com.efc2f26440c42b2927643a0e40743149.svg",
     "static/media/info-svgrepo-com.svg": "/static/media/info-svgrepo-com.0a86ea5a6bd6955587a41fef7e5293cf.svg",
     "static/media/back-svgrepo-com.svg": "/static/media/back-svgrepo-com.d174d3122c56cee5847dc6df6dd5daf5.svg",
+    "static/media/green_check.svg": "/static/media/green_check.132545dcd201ce1d498a730f1536dade.svg",
     "static/media/arrow-bottom-left-svgrepo-com.svg": "/static/media/arrow-bottom-left-svgrepo-com.858b15ac87a5ae372f28edd711bafb02.svg",
-    "main.b2905f40.css.map": "/static/css/main.b2905f40.css.map",
-    "main.cbc34b95.js.map": "/static/js/main.cbc34b95.js.map"
+    "main.d4c3019c.css.map": "/static/css/main.d4c3019c.css.map",
+    "main.cb6a7257.js.map": "/static/js/main.cb6a7257.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2905f40.css",
-    "static/js/main.cbc34b95.js"
+    "static/css/main.d4c3019c.css",
+    "static/js/main.cb6a7257.js"
   ]
 }
