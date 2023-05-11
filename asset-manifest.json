@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4c3019c.css",
-    "main.js": "/static/js/main.cb6a7257.js",
+    "main.css": "/static/css/main.199f6ba7.css",
+    "main.js": "/static/js/main.e0c85c53.js",
     "static/media/m1.png": "/static/media/m1.542405b0e97fe18a01f9.png",
     "static/media/m3.png": "/static/media/m3.0c1ad110b108bba7a09c.png",
     "static/media/m2.png": "/static/media/m2.877100d0c8d2c6193708.png",
     "static/media/t2.png": "/static/media/t2.c022cb4b838bb930e4cc.png",
     "static/media/t1.png": "/static/media/t1.a10fd632b7acacf30eea.png",
     "static/media/t3.png": "/static/media/t3.6f8e313cb397c1a87f2d.png",
+    "static/media/f7.svg": "/static/media/f7.3587f1d19d52e2f21f33b59fee953abb.svg",
+    "static/media/f1.svg": "/static/media/f1.aacdb15e2599f7168707ecae112dd812.svg",
+    "static/media/f4.svg": "/static/media/f4.98c1a4f54071208f64e1ff2eea678d43.svg",
+    "static/media/f2.svg": "/static/media/f2.e7c245433273ffba257de5eadacfb312.svg",
+    "static/media/f5.svg": "/static/media/f5.f815a52bc37caadc9e83a1b5fd0eccfc.svg",
+    "static/media/f8.svg": "/static/media/f8.518c4e92b9f10d8864340fd70cb1c400.svg",
+    "static/media/f6.svg": "/static/media/f6.b55d45a23c503295860232f8400eec57.svg",
+    "static/media/f3.svg": "/static/media/f3.fd1711b219d966336f5b12c5df4758b7.svg",
     "static/media/light-bulb-svgrepo-com.svg": "/static/media/light-bulb-svgrepo-com.57583c0bfcab1aa6647ab00941486377.svg",
     "static/media/beer-mug-svgrepo-com.svg": "/static/media/beer-mug-svgrepo-com.b4fcdd493475a7be660958adbebeab98.svg",
     "static/media/earth-moon-svgrepo-com.svg": "/static/media/earth-moon-svgrepo-com.5126961b3edcb2c1fd56bfceab6d5eb1.svg",
@@ -23,11 +31,11 @@
     "static/media/back-svgrepo-com.svg": "/static/media/back-svgrepo-com.d174d3122c56cee5847dc6df6dd5daf5.svg",
     "static/media/green_check.svg": "/static/media/green_check.132545dcd201ce1d498a730f1536dade.svg",
     "static/media/arrow-bottom-left-svgrepo-com.svg": "/static/media/arrow-bottom-left-svgrepo-com.858b15ac87a5ae372f28edd711bafb02.svg",
-    "main.d4c3019c.css.map": "/static/css/main.d4c3019c.css.map",
-    "main.cb6a7257.js.map": "/static/js/main.cb6a7257.js.map"
+    "main.199f6ba7.css.map": "/static/css/main.199f6ba7.css.map",
+    "main.e0c85c53.js.map": "/static/js/main.e0c85c53.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4c3019c.css",
-    "static/js/main.cb6a7257.js"
+    "static/css/main.199f6ba7.css",
+    "static/js/main.e0c85c53.js"
   ]
 }
