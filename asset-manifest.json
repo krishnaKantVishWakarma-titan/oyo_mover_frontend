@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.30ab271a.css",
-    "main.js": "/static/js/main.f0d8c577.js",
+    "main.css": "/static/css/main.abf61d14.css",
+    "main.js": "/static/js/main.55a8e037.js",
     "static/media/m1.png": "/static/media/m1.542405b0e97fe18a01f9.png",
     "static/media/m3.png": "/static/media/m3.0c1ad110b108bba7a09c.png",
     "static/media/m2.png": "/static/media/m2.877100d0c8d2c6193708.png",
@@ -17,6 +17,7 @@
     "static/media/f3.svg": "/static/media/f3.fd1711b219d966336f5b12c5df4758b7.svg",
     "static/media/success.png": "/static/media/success.8778963b5da49f4f95da.png",
     "static/media/light-bulb-svgrepo-com.svg": "/static/media/light-bulb-svgrepo-com.57583c0bfcab1aa6647ab00941486377.svg",
+    "static/media/recommended-like-svgrepo-com.svg": "/static/media/recommended-like-svgrepo-com.1eaee5dc1141c9b3889b8091a3a09671.svg",
     "static/media/beer-mug-svgrepo-com.svg": "/static/media/beer-mug-svgrepo-com.b4fcdd493475a7be660958adbebeab98.svg",
     "static/media/earth-moon-svgrepo-com.svg": "/static/media/earth-moon-svgrepo-com.5126961b3edcb2c1fd56bfceab6d5eb1.svg",
     "static/media/sun-sunrise-svgrepo-com.svg": "/static/media/sun-sunrise-svgrepo-com.ee6fae8e43e135b72081954c79a78990.svg",
@@ -32,11 +33,11 @@
     "static/media/green_check.svg": "/static/media/green_check.132545dcd201ce1d498a730f1536dade.svg",
     "static/media/file-upload-svgrepo-com.svg": "/static/media/file-upload-svgrepo-com.719bbde188e7f8b3bd1e1210c8c64c83.svg",
     "static/media/arrow-bottom-left-svgrepo-com.svg": "/static/media/arrow-bottom-left-svgrepo-com.858b15ac87a5ae372f28edd711bafb02.svg",
-    "main.30ab271a.css.map": "/static/css/main.30ab271a.css.map",
-    "main.f0d8c577.js.map": "/static/js/main.f0d8c577.js.map"
+    "main.abf61d14.css.map": "/static/css/main.abf61d14.css.map",
+    "main.55a8e037.js.map": "/static/js/main.55a8e037.js.map"
   },
   "entrypoints": [
-    "static/css/main.30ab271a.css",
-    "static/js/main.f0d8c577.js"
+    "static/css/main.abf61d14.css",
+    "static/js/main.55a8e037.js"
   ]
 }
